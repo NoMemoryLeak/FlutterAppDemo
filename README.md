@@ -1,6 +1,11 @@
 # FlutterApptest
 
 
+### Pré-Requis
+Le projet contient un boussole ces librairies seront nécéssaires :
+- flutter_compass: ^0.6.1
+- permission_handler: ^8.0.0+2
+
 ### Description
 L'application regorupe plusieurs pages : 
 
